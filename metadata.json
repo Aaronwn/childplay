@@ -1,0 +1,5 @@
+{
+  "name": "ChildPlay Replica",
+  "description": "A 1:1 replica of ChildPlay.app, a free library of zero-prep activity ideas for kids ages 1-6.",
+  "requestFramePermissions": []
+}
